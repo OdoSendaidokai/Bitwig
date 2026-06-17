@@ -11,9 +11,9 @@ Here you can find all the information, instruction & files you need, to use my G
 
 # Generic Flexi - Driven By Moss
 
-The Generic Flexi is a "Driver" from the Driven By Moss Bitwig & Reaper Extensioin, that can be downloaded and used for free on Jürgen Mossgrabers (developer) Website.
+The Generic Flexi is a "Driver" from the Driven By Moss Bitwig & Reaper Extension, that can be downloaded and used for free on Jürgen Mossgrabers (developer) Website / ![github repository](https://github.com/git-moss)
 
-Because this is about integration into Bitwig, the link leads direct to the Bitwig Extension https://www.mossgrabers.de/Software/Bitwig/Bitwig.html
+Because this is about integration into Bitwig, the link leads directly to the Bitwig Extension https://www.mossgrabers.de/Software/Bitwig/Bitwig.html
 
 Driven By Moss Extension installation paths for various Operating Systems
 

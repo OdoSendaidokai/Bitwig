@@ -1,7 +1,13 @@
 # Arturia - Minilab 3 & Minilab 37
 
- ![Arturia Minilab mk3 & 37](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/images/Arturia%20mk3%203%20%26%2037.webp)
+#### Table of Contents
+- [Product Info](#Product-info)
+- [Information](#information)
+- [Tutorial](#tutorial)
+- [Generic Flexi - Driven By Moss](#generic-flexi---driven-by-moss)
 
+
+ ![Arturia Minilab mk3 & 37](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/images/Arturia%20mk3%203%20%26%2037.webp)
 
 # Product Info
 

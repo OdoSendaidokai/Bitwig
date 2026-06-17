@@ -1,4 +1,4 @@
-# Arturia - Minilab 3
+# Arturia - Minilab 3 & Minilab 37
 
 ## Image
 

@@ -5,7 +5,7 @@
 Use Arturias Midi Control Center and import this preset file on your Arturia Minilab mk3 or Minilab 37
 
 - Midi Control Center https://www.arturia.com/support/downloads-manuals/product/mccu
-- The Preset - File :  [Arturia Minilab 3 Software Preset for Midi Control Center_Colognialist_20260617.minilab3](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/Preset/Arturia%20Minilab%203%20Software%20Preset%20for%20Midi%20Control%20Center_Colognialist_20260617.minilab3)
+- The Preset - File :  [Arturia Minilab 3 Software Preset for Midi Control Center_Colognialist_20260617.minilab3](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/Preset/Arturia%20Minilab%203%20Software%20Preset%20for%20Midi%20Control%20Center_Colognialist_20260617.minilab3) . THANKS to Colognialist !!!
 
 
 ## Linux

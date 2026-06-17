@@ -35,4 +35,6 @@ Linux
 2. Arturia Minilab 37 Product Page https://www.arturia.com/products/hybrid-synths/minilab-37/overview
 3. Firmware & Manuals & DAW Integration Scripts https://www.arturia.com/de/products/hybrid-synths/minilab-3/resources
 
+## Tutorial
+
 

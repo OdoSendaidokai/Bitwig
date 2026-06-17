@@ -1,5 +1,12 @@
 # Preset Win/Mac & Linux
 
+#### Table of Contens
+
+- [Windows / Mac](#windows--mac)
+- [Linux](#linux)
+- [Sysex Controls](#sysex-controls)
+- [Tutorials with Sysex Controls](#tutorials-with-sysex-controls)
+
 ## Windows / Mac
 
 Use Arturias Midi Control Center and import this preset file on your Arturia Minilab mk3 or Minilab 37
@@ -22,7 +29,7 @@ Just make sure the knobs, faders and pads all have the same CC Numbers like on t
 ![Screenshot to configure Sysexcontrols](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/Preset/Arturia%20Minilab%20mk3%20%26%2037_Sysex%20Controls%20Configuration.png)
 
 
-### Website Sysex Controls
+### Sysex Controls
 
 1. Website https://github.com/soyersoyer/sysex-controls
 2. Flathub https://flathub.org/en/apps/hu.irl.sysex-controls

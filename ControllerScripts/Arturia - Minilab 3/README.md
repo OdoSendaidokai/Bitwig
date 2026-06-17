@@ -2,7 +2,7 @@
 
 #### Table of Contents
 - [Product Info](#Product-info)
-- [Information](#information)
+- [Files](#files)
 - [Tutorial](#tutorial)
 - [Generic Flexi - Driven By Moss](#generic-flexi---driven-by-moss)
 
@@ -15,7 +15,7 @@
 2. Arturia Minilab 37 Product Page https://www.arturia.com/products/hybrid-synths/minilab-37/overview
 3. Firmware & Manuals & DAW Integration Scripts https://www.arturia.com/de/products/hybrid-synths/minilab-3/resources
 
-# Information
+# Files
 
 Here you can find all the information, instruction & files you need, to use my Generic Flexi Script for the Arturia Minilab mk3 & Minilab 37 for Bitwig.
 

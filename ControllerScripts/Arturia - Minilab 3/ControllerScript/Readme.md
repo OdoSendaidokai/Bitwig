@@ -3,7 +3,12 @@
 This is the Controller Script for the Arturia Minilab mk3 & 37 you need to install on your harddrive. As mentioned in my video, I prefere to install it in a seperate directory together with the function Map images.
 
 ## Script 
+
+Original Script
 [Arturia_MiniLab3_Flexi_Modesv5.properties](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/ControllerScript/Arturia_MiniLab3_Flexi_Modesv5.properties)
+
+Alternate Function Layer 3: where the knobs reset to the default state
+[Arturia_MiniLab3_Flexi_Modesv6.properties](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/ControllerScript/Arturia_MiniLab3_Flexi_Modesv6.properties)
 
 ## Paths
 

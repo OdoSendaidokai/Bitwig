@@ -1,0 +1,3 @@
+# Community Bitwig Manual
+
+placeholder

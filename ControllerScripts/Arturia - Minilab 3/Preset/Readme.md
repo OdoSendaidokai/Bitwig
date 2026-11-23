@@ -5,6 +5,10 @@
 - [Windows / Mac](#windows--mac)
 - [Linux](#linux)
 - [Sysex Controls](#sysex-controls)
+  - [Controller](#controller)
+  - [Knobs](#knobs)
+  - [Pads](#pads)
+  - [Velocity](#velocity)
 - [Tutorials with Sysex Controls](#tutorials-with-sysex-controls)
 
 ## Windows / Mac
@@ -33,6 +37,22 @@ Just make sure the knobs, faders and pads all have the same CC Numbers like on t
 
 1. Website https://github.com/soyersoyer/sysex-controls
 2. Flathub https://flathub.org/en/apps/hu.irl.sysex-controls
+
+### Controller
+
+![Screenshot to configure Controller in Sysexcontrols](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/images/Arturia%20Minilab%20mk3_Sysex%20Bitwig%20Preset_Controller.webp)
+
+### Knobs
+
+![Screenshot to configure Knobs in Sysexcontrols](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/images/Arturia%20Minilab%20mk3_Sysex%20Bitwig%20Preset.webp)
+
+### Pads
+
+![Screenshot to configure Pads in Sysexcontrols](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/images/Arturia%20Minilab%20mk3_Sysex%20Bitwig%20Preset_pads.webp)
+
+### Velocity
+
+![Screenshot to configure Velocity in Sysexcontrols](https://github.com/OdoSendaidokai/Bitwig/blob/main/ControllerScripts/Arturia%20-%20Minilab%203/images/Arturia%20Minilab%20mk3_Sysex%20Bitwig%20Preset_Velocity.webp)
 
 ### Tutorials with Sysex Controls
 - Akai & Arturia Linux SysEx Controls | Bitwig | EN
